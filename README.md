@@ -7,7 +7,7 @@ This is a README file indicating the use of this repository
 
 1. [Title of the Project](#Name-of-the-Project)
 2. [Description](#Description)
-3. [Embedding Code](#embedding-code)
+3. [Languages](#Languages-Used)
 4. [Embedding Links](embedding-links)
 5. [Embedding Images](#embedding-images)
 6. [Lists In Markdown](#lists-in-markdown)
@@ -18,7 +18,6 @@ This is a README file indicating the use of this repository
 - MITM Detection Mechanism at client side using Machine Learning Algorithms
 
 ## Description
-
 Man-in-the-Middle attacks are talked about a lot in the technical field of computer security because they are one of the biggest concerns for professionals. MitM (Man in the Middle) attacks occur when an attacker intercepts data in the middle of a conversation by using a technique of interjecting themselves. Aside from attacking the data flow between the endpoints, attackers compromise the integrity and confidentiality of that data, as well. Through communication interception, an adversary can eavesdrop on confidential information and modify message integrity. Additionally, an adversary may intercept, modify, or destroy messages to end communication for one of the parties, thereby constituting a compromise of availability. In order to prevent the man in the middle attacks there are several methods, firewalls and intrusion detection systems, but unfortunately these methods are only applied to the administrative side of operations, i.e., Enterprise WIDS (Wireless Intrusion Detection System). The client system is not equipped to detect, prevent, and control these attacks, making it vulnerable to attack for the attacker. Our goal is to build a quality Intrusion Detection system using Anomaly Detection in Machine Learning that will detect network attacks on a client side basis in order to prevent those attacks from happening.
 
 ## Languages Used
@@ -31,11 +30,11 @@ int myFunc(int a int b){
 }
 ```
 
-## Embedding Links
+## Files to run
 
-You can host websites at [Github Pages](https://pages.github.com/)!
-
-You can also do relative links [newfile.txt](newfile.txt)
+The main file to run this project is available here [Model.ipynb](https://github.com/Maheshmuddunuru/MITM-Detection-Mechanism-at-client-side-using-Machine-Learning-Algorithms/blob/main/Model.ipynb)-- Main Code
+<br/>
+Datasets Folder-- Contains dataset used for this project
 
 ## Embedding Images
 
