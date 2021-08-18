@@ -23,12 +23,7 @@ Man-in-the-Middle attacks are talked about a lot in the technical field of compu
 ## Languages Used
 
 I have used python Language for this project and to run the Model.ipynb file you need to have a Google colab account or jupyter notebook in your system.
-```cpp
-int myFunc(int a int b){
-    int c = a+b;
-    return c;
-}
-```
+
 ## Packages
 This project requires the following packages.
 ```bash 
@@ -53,11 +48,11 @@ Datasets Folder-- The dataset used for this project can also be found here along
 - Following is a screenshot of the dataset
 -<br/>
 ![alt text](https://github.com/Maheshmuddunuru/MITM-Detection-Mechanism-at-client-side-using-Machine-Learning-Algorithms/blob/main/Review%20of%20data.jpg)
-<br/>
+-<br/>
 - The following is a snippet of code from the project.
 -<br/>
 ![alt text](https://github.com/Maheshmuddunuru/MITM-Detection-Mechanism-at-client-side-using-Machine-Learning-Algorithms/blob/main/codesnippet.jpg)
-<br/>
+-<br/>
 - Make sure all the resources and packages are included and run the code.
 - Upon running the code, you will get output with the accuracy.
 - 
