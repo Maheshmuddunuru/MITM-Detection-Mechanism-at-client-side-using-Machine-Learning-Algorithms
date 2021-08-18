@@ -8,7 +8,7 @@ This is a README file indicating the use of this repository
 
 ## Table of Contents
 
-1. [Title of the Project](#Name of the Project)
+1. [Title of the Project](#Name-of-the-Project)
 2. [Style Examples](#style-examples)
 3. [Embedding Code](#embedding-code)
 4. [Embedding Links](embedding-links)
