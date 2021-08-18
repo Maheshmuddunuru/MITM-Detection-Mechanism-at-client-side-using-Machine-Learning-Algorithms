@@ -1,7 +1,4 @@
-# MITM-Detection-Mechanism-at-client-side-using-Machine-Learning-Algorithms
-Man-in-the-Middle attacks are talked about a lot in the technical field of computer security because they are one of the biggest concerns for professionals. The client system is not equipped to detect, prevent, and control these attacks, making it vulnerable to attack for the attacker. Our goal is to build a quality Intrusion Detection system using Anomaly Detection in Machine Learning that will detect network attacks on a client side basis in order to prevent those attacks from happening.
-#Table of Contents
-# Research Methods Class (v 1.0)
+# Research Methodology Project
 
 ![social](https://img.shields.io/github/followers/Maheshmuddunuru?style=social)![twitter](https://img.shields.io/twitter/follow/MaheshK71025493?style=social)
 This is a README file indicating the use of this repository
@@ -9,7 +6,7 @@ This is a README file indicating the use of this repository
 ## Table of Contents
 
 1. [Title of the Project](#Name-of-the-Project)
-2. [Style Examples](#style-examples)
+2. [Description](#Description)
 3. [Embedding Code](#embedding-code)
 4. [Embedding Links](embedding-links)
 5. [Embedding Images](#embedding-images)
@@ -20,30 +17,13 @@ This is a README file indicating the use of this repository
 
 - MITM Detection Mechanism at client side using Machine Learning Algorithms
 
-```
-- newfile.txt --> A new file that says stuff in it
-- README.md ----> This markdown file you are reading.
-- img ----------> Images folder for the readme
-```
-
 ## Description
 
 Man-in-the-Middle attacks are talked about a lot in the technical field of computer security because they are one of the biggest concerns for professionals. MitM (Man in the Middle) attacks occur when an attacker intercepts data in the middle of a conversation by using a technique of interjecting themselves. Aside from attacking the data flow between the endpoints, attackers compromise the integrity and confidentiality of that data, as well. Through communication interception, an adversary can eavesdrop on confidential information and modify message integrity. Additionally, an adversary may intercept, modify, or destroy messages to end communication for one of the parties, thereby constituting a compromise of availability. In order to prevent the man in the middle attacks there are several methods, firewalls and intrusion detection systems, but unfortunately these methods are only applied to the administrative side of operations, i.e., Enterprise WIDS (Wireless Intrusion Detection System). The client system is not equipped to detect, prevent, and control these attacks, making it vulnerable to attack for the attacker. Our goal is to build a quality Intrusion Detection system using Anomaly Detection in Machine Learning that will detect network attacks on a client side basis in order to prevent those attacks from happening.
 
-**Bold!**
+## Languages Used
 
-_**Bold-Italics!**_
-
-~~strikethru~~
-
-:coffee::cat::happy:
-
-In the words of Abraham Lincoln:
-
-> "Pardon my French!"
-
-## Embedding Code
-
+I have used python Language for this project and to run the Model.ipynb file you need to have a Google colab account or jupyter notebook in your system.
 ```cpp
 int myFunc(int a int b){
     int c = a+b;
