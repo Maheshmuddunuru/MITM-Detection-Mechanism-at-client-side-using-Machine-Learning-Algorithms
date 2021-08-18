@@ -47,11 +47,11 @@ Datasets Folder-- The dataset used for this project can also be found here along
 - Download the dataset WIFIDATAcsv1.csv file to the notebook and adjust the current path of the dataset in the Model.ipynb file.
 - Following is a screenshot of the dataset
  <br/>
-![alt text](https://github.com/Maheshmuddunuru/MITM-Detection-Mechanism-at-client-side-using-Machine-Learning-Algorithms/blob/main/Review%20of%20data.jpg)
+ ![alt text](https://github.com/Maheshmuddunuru/MITM-Detection-Mechanism-at-client-side-using-Machine-Learning-Algorithms/blob/main/Review%20of%20data.jpg)
  <br/>
 - The following is a snippet of code from the project.
  <br/>
-![alt text](https://github.com/Maheshmuddunuru/MITM-Detection-Mechanism-at-client-side-using-Machine-Learning-Algorithms/blob/main/codesnippet.jpg)
+ ![alt text](https://github.com/Maheshmuddunuru/MITM-Detection-Mechanism-at-client-side-using-Machine-Learning-Algorithms/blob/main/codesnippet.jpg)
  <br/>
 - Make sure all the resources and packages are included and run the code.
 - Upon running the code, you will get output with the accuracy.
