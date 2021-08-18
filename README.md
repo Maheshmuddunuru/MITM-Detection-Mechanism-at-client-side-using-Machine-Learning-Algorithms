@@ -50,13 +50,15 @@ Datasets Folder-- The dataset used for this project can also be found here along
  ![alt text](https://github.com/Maheshmuddunuru/MITM-Detection-Mechanism-at-client-side-using-Machine-Learning-Algorithms/blob/main/Review%20of%20data.jpg)
    <br/>
 - The following is a snippet of code from the project.
- <br/>
+   <br/>
  ![alt text](https://github.com/Maheshmuddunuru/MITM-Detection-Mechanism-at-client-side-using-Machine-Learning-Algorithms/blob/main/codesnippet.jpg)
    <br/>
 - Make sure all the resources and packages are included and run the code.
 - Upon running the code, you will get output with the accuracy.
-- 
-## Lists in Markdown
+## Support
+You can reach out to me at one of the following places:
+- via [email](mmuddunu@lakeheadu.ca)
+- via ![twitter](https://img.shields.io/twitter/follow/MaheshK71025493?style=social)
 
 Here's a list of cool pokemon:
 
