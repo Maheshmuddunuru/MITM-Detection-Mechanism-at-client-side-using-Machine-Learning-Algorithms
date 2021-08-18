@@ -8,8 +8,8 @@ This is a README file indicating the use of this repository
 1. [Title of the Project](#Name-of-the-Project)
 2. [Description](#Description)
 3. [Languages](#Languages-Used)
-4. [Embedding Links](embedding-links)
-5. [Embedding Images](#embedding-images)
+4. [Packages](Packages)
+5. [Files to run](#Files-to-run)
 6. [Lists In Markdown](#lists-in-markdown)
 7. [Necessary Things for a README](#necessary-things-for-a-readme)
 
@@ -41,18 +41,22 @@ from sklearn.model_selection import train_test_split
 
 ## Files to run
 
-The main file to run this project is available here [Model.ipynb](https://github.com/Maheshmuddunuru/MITM-Detection-Mechanism-at-client-side-using-Machine-Learning-Algorithms/blob/main/Model.ipynb) and the dataset required to run the code is available in the Dataset folder[WIFIDATACSV1.csv](https://github.com/Maheshmuddunuru/MITM-Detection-Mechanism-at-client-side-using-Machine-Learning-Algorithms/blob/main/Dataset/WIFIDATAcsv1.csv)
+The main file to run this project is available here [Model.ipynb](https://github.com/Maheshmuddunuru/MITM-Detection-Mechanism-at-client-side-using-Machine-Learning-Algorithms/blob/main/Model.ipynb) and the dataset required to run the code is available in the Dataset folder [WIFIDATACSV1.csv](https://github.com/Maheshmuddunuru/MITM-Detection-Mechanism-at-client-side-using-Machine-Learning-Algorithms/blob/main/Dataset/WIFIDATAcsv1.csv)
 <br/>
 Datasets Folder-- The dataset used for this project can also be found here along with the original database file from where it originated.
 
-## Embedding Images
+## Usage
 
-![python](img/python.png)
-
-![woah](img/woah.gif)
-
-
-
+- Open the Google colab or Jupyter notebook.
+- Load the Model.ipynb file to the notebook.
+- Download the dataset WIFIDATAcsv1.csv file to the notebook and adjust the current path of the dataset in the Model.ipynb file.
+- The following is a snippet of code from the project.
+- <br/>
+![alt text](https://github.com/Uday-Samineni97/Assessing-impactful-words-from-short-texts-in-Visual-Media/blob/main/Model.png)
+<br/>
+- Make sure all the resources and packages are included and run the code.
+- Once you run the code you will get output like below.
+- 
 ## Lists in Markdown
 
 Here's a list of cool pokemon:
