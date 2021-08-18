@@ -46,7 +46,7 @@ Datasets Folder-- The dataset used for this project can also be found here along
 - Load the Model.ipynb file to the notebook.
 - Download the dataset WIFIDATAcsv1.csv file to the notebook and adjust the current path of the dataset in the Model.ipynb file.
 - Following is a screenshot of the dataset
- -<br/>
+   <br/>
  ![alt text](https://github.com/Maheshmuddunuru/MITM-Detection-Mechanism-at-client-side-using-Machine-Learning-Algorithms/blob/main/Review%20of%20data.jpg)
  <br/>
 - The following is a snippet of code from the project.
