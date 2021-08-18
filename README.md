@@ -4,13 +4,11 @@ Man-in-the-Middle attacks are talked about a lot in the technical field of compu
 # Research Methods Class (v 1.0)
 
 ![social](https://img.shields.io/github/followers/Maheshmuddunuru?style=social)![twitter](https://img.shields.io/twitter/follow/MaheshK71025493?style=social)
-
-
-This is a repository for my research methods class.
+This is a README file indicating the use of this repository
 
 ## Table of Contents
 
-1. [Abstract](#manifest)
+1. [Title of the Project](#Name of the Project)
 2. [Style Examples](#style-examples)
 3. [Embedding Code](#embedding-code)
 4. [Embedding Links](embedding-links)
@@ -18,9 +16,9 @@ This is a repository for my research methods class.
 6. [Lists In Markdown](#lists-in-markdown)
 7. [Necessary Things for a README](#necessary-things-for-a-readme)
 
-## Manifest
+## Name of the Project
 
-- A manifest is a list of the top-level files in a project with a description of what each file is.
+MITM-Detection-Mechanism-at-client-side-using-Machine-Learning-Algorithms
 
 ```
 - newfile.txt --> A new file that says stuff in it
