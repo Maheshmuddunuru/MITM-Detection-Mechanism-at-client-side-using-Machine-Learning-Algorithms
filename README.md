@@ -50,9 +50,13 @@ Datasets Folder-- The dataset used for this project can also be found here along
 - Open the Google colab or Jupyter notebook.
 - Load the Model.ipynb file to the notebook.
 - Download the dataset WIFIDATAcsv1.csv file to the notebook and adjust the current path of the dataset in the Model.ipynb file.
+- Following is a screenshot of the dataset
+<br/>
+![alt text](https://github.com/Maheshmuddunuru/MITM-Detection-Mechanism-at-client-side-using-Machine-Learning-Algorithms/blob/main/Review%20of%20data.jpg)
+<br/>
 - The following is a snippet of code from the project.
-- <br/>
-![alt text](https://github.com/Maheshmuddunuru/MITM-Detection-Mechanism-at-client-side-using-Machine-Learning-Algorithms/blob/main/Final_results.jpg)
+<br/>
+![alt text](https://github.com/Maheshmuddunuru/MITM-Detection-Mechanism-at-client-side-using-Machine-Learning-Algorithms/blob/main/codesnippet.jpg)
 <br/>
 - Make sure all the resources and packages are included and run the code.
 - Once you run the code you will get output like below.
