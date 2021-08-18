@@ -1,6 +1,7 @@
 # Research Methodology Project
 
 ![social](https://img.shields.io/github/followers/Maheshmuddunuru?style=social)![twitter](https://img.shields.io/twitter/follow/MaheshK71025493?style=social)
+<br/>
 This is a README file indicating the use of this repository
 
 ## Table of Contents
