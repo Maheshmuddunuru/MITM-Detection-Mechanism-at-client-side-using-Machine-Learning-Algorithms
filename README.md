@@ -59,6 +59,10 @@ Datasets Folder-- The dataset used for this project can also be found here along
 You can reach out to me at one of the following places:
 - via [email](mmuddunu@lakeheadu.ca)
 - via ![twitter](https://img.shields.io/twitter/follow/MaheshK71025493?style=social)
+## Future work and enhancements
+-There are still a few more areas to test in the dataset.
+-Plug and play with the features, Adding Interpretability, Neural Networks and Deep Learning aim at learning feature representations or anomaly scores for the sake of anomaly detection.
+-An automated script can also be worked to collect data from the API’s and convert them into csv with a definite structure.
 
 Here's a list of cool pokemon:
 
