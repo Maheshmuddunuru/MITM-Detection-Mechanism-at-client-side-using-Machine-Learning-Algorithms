@@ -29,12 +29,21 @@ int myFunc(int a int b){
     return c;
 }
 ```
+## Packages
+This project requires the following packages.
+```bash 
+import pandas as pd
+from sklearn import svm
+import numpy as np
+from sklearn.svm import OneClassSVM
+from sklearn.model_selection import train_test_split  
+```
 
 ## Files to run
 
 The main file to run this project is available here [Model.ipynb](https://github.com/Maheshmuddunuru/MITM-Detection-Mechanism-at-client-side-using-Machine-Learning-Algorithms/blob/main/Model.ipynb) and the dataset required to run the code is available in the Dataset folder[WIFIDATACSV1.csv](https://github.com/Maheshmuddunuru/MITM-Detection-Mechanism-at-client-side-using-Machine-Learning-Algorithms/blob/main/Dataset/WIFIDATAcsv1.csv)
 <br/>
-Datasets Folder-- Contains dataset used for this project and also contains the original db file from where the dataset is acquired.
+Datasets Folder-- The dataset used for this project can also be found here along with the original database file from where it originated.
 
 ## Embedding Images
 
