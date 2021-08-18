@@ -18,7 +18,7 @@ This is a README file indicating the use of this repository
 
 ## Name of the Project
 
-MITM-Detection-Mechanism-at-client-side-using-Machine-Learning-Algorithms
+- MITM Detection Mechanism at client side using Machine Learning Algorithms
 
 ```
 - newfile.txt --> A new file that says stuff in it
@@ -26,9 +26,9 @@ MITM-Detection-Mechanism-at-client-side-using-Machine-Learning-Algorithms
 - img ----------> Images folder for the readme
 ```
 
-## Style Examples
+## Description
 
-_Italics!_
+Man-in-the-Middle attacks are talked about a lot in the technical field of computer security because they are one of the biggest concerns for professionals. MitM (Man in the Middle) attacks occur when an attacker intercepts data in the middle of a conversation by using a technique of interjecting themselves. Aside from attacking the data flow between the endpoints, attackers compromise the integrity and confidentiality of that data, as well. Through communication interception, an adversary can eavesdrop on confidential information and modify message integrity. Additionally, an adversary may intercept, modify, or destroy messages to end communication for one of the parties, thereby constituting a compromise of availability. In order to prevent the man in the middle attacks there are several methods, firewalls and intrusion detection systems, but unfortunately these methods are only applied to the administrative side of operations, i.e., Enterprise WIDS (Wireless Intrusion Detection System). The client system is not equipped to detect, prevent, and control these attacks, making it vulnerable to attack for the attacker. Our goal is to build a quality Intrusion Detection system using Anomaly Detection in Machine Learning that will detect network attacks on a client side basis in order to prevent those attacks from happening.
 
 **Bold!**
 
